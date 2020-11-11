@@ -1,6 +1,6 @@
 *What have done in this task:
 
-.Make default authentication.
+<p>Make default authentication</p>.
 .Install yajra datatable package.
 -Install spatie roles and permissions package.
 -Make new role.
