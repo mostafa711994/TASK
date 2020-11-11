@@ -12,10 +12,10 @@
 .Delete user using yajra and JQuery Ajax.
 
 
-*To test.
+*To test:
 email: a@a.a <br>
 password: password
 
-*To test Role.
+*To test Role:
 email: a6@a.a<br>
 password: password
