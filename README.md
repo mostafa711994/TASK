@@ -1,7 +1,7 @@
 *What have done in this task:
 
--Make default authentication.
--Install yajra datatable package.
+.Make default authentication.
+.Install yajra datatable package.
 -Install spatie roles and permissions package.
 -Make new role.
 -Make some permissions and sync them to the role you created.
